@@ -5,8 +5,8 @@ extract the methylation information with bismark_methylation_extractor
  and finally generate the coverage report using coverage2cytosine
 
 ### variables
-- input_dir=$1 # the entire path to the directory 
-- containing R1 and R2
+- input_dir=$1 # the entire path to the directory
+containing R1 and R2
 - trim_fq1=$2 # just the file name for R1
 - trim_fq2=$3 # just the file name for R2
 - out_dir=$4
